@@ -1,0 +1,323 @@
+.filter-actions {
+    align-self: end;
+    margin-right: 10px;
+}
+
+.filters-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    padding-right: 0px
+}
+
+.filter-item {
+    margin-right: 10px;
+}
+
+.myContainer {
+    padding: 0px !important;
+    max-width: 1300px !important;
+}
+
+.row-2 {
+    background-color: white;
+    height: auto;
+    margin: 50px;
+    border-radius: 10px;
+}
+
+.row {
+    width: 90%;
+    margin-left: auto;
+    box-sizing: border-box;
+    margin-right: auto;
+    display: block;
+
+
+}
+
+.innerContainer {
+    padding: 20px 30px;
+}
+
+.assesment-h1 {
+    font-size: 2.125rem;
+    line-height: 1.235;
+    margin-bottom: 0.35em;
+    font-weight: 700;
+    color: #1c5a7d;
+}
+
+.heading-p {
+    margin: 0 !important;
+    font-family: Frutiger, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans !important;
+    font-weight: 400 !important;
+    font-size: 1rem !important;
+    line-height: 1.5 !important;
+    margin-bottom: 0.45em !important;
+    color: #1c5a7d !important;
+}
+
+.assesment-button {
+    width: 50% !important;
+    font-family: FrutigerLTArabic-55Roman, Arial, Helvetica, sans-serif;
+    font-weight: 500 !important;
+    line-height: 1.75 !important;
+    border-radius: 4px !important;
+    margin: auto;
+    text-transform: uppercase !important;
+}
+
+.result-items {
+    text-align: center;
+}
+
+.eiPInB {
+    margin-top: 50px !important;
+    border-color: #1c868b !important;
+    color: #1c868b !important;
+}
+
+.result-p {
+
+    color: rgba(0, 0, 0, 0.6);
+    margin: 12px 0;
+    font-size: 0.9rem;
+    font-weight: 700;
+    margin-bottom: 0px;
+    margin-top: 28px !important;
+}
+
+.result-para {
+    color: rgba(0, 0, 0, 0.6);
+    margin: 12px 0;
+    font-size: 1rem;
+    margin-bottom: 22px;
+    line-height: 1.43;
+    font-weight: 400;
+}
+
+.result-per {
+    margin: 12px 0;
+    font-weight: 700;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    line-height: 1.334;
+    color: #1c5a7d;
+}
+
+.col {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.Heading-h1 {
+    font-size: 1.5rem !important;
+    line-height: 1.334 !important;
+    font-weight: 700 !important;
+    color: #1c5a7d;
+}
+
+.cuTWlp {
+    padding: 10px 20px !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    border-radius: 6px !important;
+    color: #1C5A7D;
+    border: 1px solid rgba(28, 90, 125, 0.5);
+}
+
+.hUZxkX {
+    color: #1C5A7D !important;
+}
+
+.btn:hover,
+.hUZxkX:hover {
+    background-color: #1C5A7D;
+    color: white !important;
+}
+
+.innertext {
+    display: flex;
+    align-items: center;
+}
+
+.h1 {
+    margin-left: 10px !important;
+}
+
+hr {
+    border-color: black !important;
+    border-bottom-width: thin;
+    margin-bottom: 24px;
+    margin-top: 24px;
+    border-style: solid;
+    color: #979797;
+    opacity: 0.1;
+}
+
+.define-contents {
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.p {
+    color: rgba(0, 0, 0, 0.6) !important;
+    margin-top: 24px !important;
+    margin-bottom: 0px !important;
+    font-family: Frutiger, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans;
+    line-height: 1.43;
+    font-weight: 400 !important;
+    font-size: 0.875rem !important;
+}
+
+.h6 {
+    font-family: Frutiger, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans;
+    line-height: 1.6;
+    font: 14px/1.3 FrutigerLTArabic-55Roman, Arial, Helvetica, sans-serif;
+    color: #1c5a7d;
+    font-weight: 700 !important;
+    font-size: 1.25rem !important;
+}
+
+
+
+.container {
+    width: 100%;
+    margin-left: auto;
+    box-sizing: border-box;
+    margin-right: auto;
+    display: block;
+}
+
+
+
+.box {
+    border: 2px solid #f7941d;
+    ;
+
+}
+
+
+.button-group {
+    display: flex;
+}
+
+img {
+    width: 100%;
+    vertical-align: middle;
+}
+
+.logo {
+    max-width: 100px !important;
+    margin-bottom: 12px !important;
+
+}
+
+.content {
+    padding: 60px 45px;
+}
+
+.h2 {
+    margin-bottom: 8px;
+    font-size: 2rem;
+    color: #464646;
+    line-height: 40px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.headings {
+    text-align: center;
+
+}
+
+.headings h6 {
+    font-size: 1.875rem;
+    line-height: 40px;
+    margin-bottom: 60px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #148285;
+    letter-spacing: 1px;
+}
+
+.awarded p {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #727272;
+    line-height: 10px;
+    text-align: center;
+}
+
+.awarded h3 {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    font-size: 2rem;
+    color: #000;
+    border-bottom: 1px solid #000;
+    width: 98%;
+    margin: 15px auto 12px auto;
+    padding-bottom: 5px;
+}
+
+.awarded h5 {
+    font-size: 1rem;
+    font-weight: 200;
+    color: #727272;
+    line-height: 14px;
+    text-align: center;
+}
+
+.awarded span {
+    color: #2d2d2d;
+    font-weight: 600;
+    letter-spacing: 0.25px;
+}
+
+.comapany-detail {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.signature {
+    text-align: center;
+    width: 30%;
+}
+
+.border {
+    border-bottom: 1px solid #000;
+    font-size: 0.95rem;
+    color: #2d2d2d;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.estNo {
+    text-align: center;
+    width: 20%;
+    font-weight: 200;
+    color: #727272;
+}
+
+.validity {
+    width: 15%;
+    font-weight: 200;
+    color: #727272;
+}
+
+.border-5 {
+    font-weight: 200;
+    color: #727272;
+    margin-bottom: 0.5em;
+    line-height: 1.3;
+
+}
+
+.valid {
+    text-align: start;
+}
